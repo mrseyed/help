@@ -1,0 +1,639 @@
+#vazirblack {
+font-family: vazirbk;
+}
+#vazirbold {
+font-family: vazirbd;
+}
+#vazirmatnbold {
+font-family: VazirmatnBold;
+}
+#vazirmatnexbold {
+font-family: VazirmatnExBold;
+}
+#vazirmatnblack {
+font-family: VazirmatnBlack;
+}
+#vazirmatn {
+font-family: VazirmatnMedium;
+}
+#sahelblack {
+font-family: SahelBlack;
+}
+#sahelbold {
+font-family: SahelBold;
+}
+#irsblack {
+font-family: irsblack;
+}
+#irsbold {
+font-family: irsbold;
+}
+#irs {
+font-family: irsmedium;
+}
+#vazir {
+font-family: vazirm;
+}
+#sahel {
+font-family: Sahel;
+}
+#irnas {
+font-family:irnas;
+}
+.punk {
+background-color:purple;
+}
+
+.marq1 {
+marquee-style:scroll;
+marquee-direction:forward;
+marquee-play-count:4;
+marquee-speed:100;
+}
+
+.form {
+width:390px;
+border:6px double red;
+border-radius:15pt;
+text-align:justify;
+font-family: irsbold;
+font-size: 16px;
+text-decoration:none;
+}
+.form-div {
+margin:5px;
+color: darkblue;
+font-size:16px;
+}
+.form2 {
+width:390px;
+border:2px solid #256E91;
+border-radius:5px;
+font-family: vazirbd;
+font-size:14px;
+
+}
+.form22 {
+width:370px;
+border:6px ridge brown;
+border-radius:5px;
+font-family: vazirbd;
+font-size:14px;
+height:70px;
+}
+
+.form2 > table {
+text-align:center;
+}
+	#f2tr {
+	border: 1px solid gold;
+	color:yellow;
+	font-family: SahelBlack;
+	font-size: 18px;
+	}
+	#f2tr2 {
+	color:lime;
+	font-family: SahelBlack;
+    margin-right:120px;
+    font-size:30px;
+    margin-top:-10px;
+    margin-bottom:20px;
+	}
+	.img-f2tr2 {
+	position:absolute;
+	width:100px;
+	margin-top:-90px;
+	margin-right:-190px;
+	margin-bottom:20px;
+	}
+	#f2th {
+	border:1px solid black;
+	font-family: SahelBlack;
+	text-align:center;
+	font-size:18px;
+	}
+	#f2td {
+	border: 1px solid black;
+	font-family: vazirbd;
+	text-align:center;
+	font-size:20px;
+	align-self:;
+	}
+	#f2tr1 {
+	color: darkblue;
+	font-family:irsbold;
+	}
+
+footer {
+width:390px;
+height:80px;
+
+
+}
+
+.form3 {
+border:1px solid #256E91;
+border-top-left-radius: 20px;
+border-top-right-radius:20px;
+border-bottom-left-radius:20px;
+border-bottom-right-radius:20px;
+width:350px;
+padding-top:15px;
+padding-bottom:15px;
+height:700px;
+
+}
+
+	.form3 table {
+	text-align:center;
+	padding:10px;
+	}
+		.form3 table  tr {
+		width:360px;
+		}
+		.form3 table  th {
+		text-align:left;
+		width:80px;
+		font-family:SahelBlack;
+		color:aqua;
+		font-size:24px;
+		margin:5px;
+		}
+		.form3 table td {
+		text-align:right;
+		width:280px;
+		font-family:irsblack;
+		color:white;
+		font-size:24px;
+		margin:5px;
+		}
+.sms {
+width:310px;
+border:3px ridge red;
+border-radius:10px;
+text-align:right;
+font-family:vazirbd;
+font-size:14px;
+}
+.form4 {
+border:3px solid #256E91;
+border-bottom-left-radius:20px;
+border-bottom-right-radius:20px;
+margin-top:50px;
+margin-right:-10px;
+width:370px;
+background-color:lightgray;
+height:auto;
+}
+ .form4 > .milli {
+ width:360px;
+ border:2px solid red;
+ height:200px;
+ }
+ .form4 > table {
+ width:350px;
+ }
+ .form4 .thr {
+
+ }
+ .form4 .tdr{
+ 
+ }
+ .form4 .thr > th {
+  font-size:14px;
+  font-family:irsbold;
+  text-align:center;
+  color:gold;
+  border:1px solid black;
+ }
+ .form4 .thr > td {
+ font-size:14px;
+ font-family:vazirbd;
+ text-align:center;
+ color:darkblue;
+   border:1px solid black;
+ }
+ .form4 .tdr > td {
+ color:red;
+ font-family:irsblack;
+ font-size:13px;
+ }
+	.f4-tit {
+	position:absolute;
+	margin-top:-40px;
+	color:white;
+	font-size:24px;
+	}
+    
+.sub-acc {
+text-align:right;
+margin:10px;
+font-size:18px;
+color: yellow;
+
+}
+.acc-info {
+flex: 0 0 auto;
+width: 93%;
+border:1px solid white;
+border-radius: 10px;
+height:auto;
+background-color:lightyellow;
+margin-top:15px;
+margin-bottom: 20;
+
+}
+.acc-info2 {
+flex: 0 0 auto;
+width: 93%;
+border:1px solid white;
+border-top-left-radius:80px;
+border-top-right-radius:80pt;
+height:auto;
+
+margin-top:0;
+margin-bottom: 20;
+
+}
+.t-mosht {
+background-color:lightgreen;
+color:brown;
+font-family:irsblack;
+border:1px solid black;
+text-align:center;
+font-size:20px;
+}
+.t-hesab {
+background-color:lightyellow;
+color:darkblue;
+font-family:irsblack;
+text-align:center;
+border:1px solid black;
+font-size:20px;
+}
+.t-sheba {
+background-color:lightblue;
+color:darkgreen;
+font-family:irsblack;
+text-align:center;
+border:1px solid black;
+font-size:15px;
+}
+.t-card {
+background-color:lightgreen;
+color:darkblue;
+font-family:irsblack;
+border:1px solid black;
+text-align:center;
+font-size:22px;
+}
+.t-bank {
+
+color:brown;
+font-family:irsblack;
+border:1px solid black;
+text-align:center;
+font-size:20px;
+}
+.card-head {
+font-family: SahelBlack;
+color:lightyellow;
+font-size:25px;
+text-align:center;
+}
+.btnn {
+font-family: irsblack;
+font-size: 20px;
+width: 180px;
+}
+.btn {
+border:1px solid red;
+}
+#btn-menu {
+width:90%;
+margin: 2px;
+font-family: irsbold;
+font-size: 17px;
+height:43px;
+}
+
+#t-logo {
+border:2px solid #256E91;
+width:100px;
+height:100px;
+border-radius:10px;
+}
+#t-titr {
+border:2px solid #256E91;
+width:200px;
+height:100px;
+border-radius:10px;
+}
+
+#marq {
+marquee-direction:forward;
+marquee-style:alternate;
+width:350p;
+}
+.banner {
+width:95%;
+border:2px ridge green;
+border-radius:5pt;
+margin-top:3px;
+}
+
+.top-head {
+width:100%;
+height:50px;
+border-top-right-radius:10px;
+border-top-left-radius:10px;
+border-bottom:2px solid darkblue;
+}
+	.top-head a{
+	border:1px solid black;
+	border-radius:10px;
+	background-color:white;
+	margin-top:5px;
+	color:;
+	
+	}
+	.top-head a:link {
+	text-decoration:none;
+	font-size:30px;
+	color:black;
+	}
+	.top-head a:visited {
+	text-decoration:none;
+	font-size:30px;
+	color:;
+	
+	}
+	.top-head a:hover {
+	text-decoration:none;
+	font-size:27px;
+	color:green;
+	
+	}
+	.top-head a:active {
+	text-decoration:none;
+	font-size:30px;
+	color:;
+	
+	}
+header {
+width:390px;
+height:80px;
+border: 3px ridge black;
+text-align:center;
+font-family: vazirbd;
+margin-top: 30px;
+}
+
+.bank_bt {
+width:120px;
+height:125px;
+margin:2px;
+font-size:15px;
+}
+
+.bank-head {
+width:95%;
+border:2px solid green;
+margin:2px;
+border-radius:5pt;
+}
+
+//✱✱✱✱✱✱ LINK ✱✱✱✱✱✱//
+a:link {
+    background-color: red;
+    text-decoration: none;
+    color:green;
+}
+/* حالت لینک دیده شده */
+a:visited {
+    background-color: gold;
+    text-decoration: none;
+    color: black;
+}
+/* حالت لینک فعال */
+a:hover {
+    background-color: green;
+    text-decoration: none;
+    color: red;
+}
+/* حالت لینک در لحظه ای که روی آن کلیک می کنیم */
+a:active {
+    background-color: red;
+    text-decoration: none;
+}
+ .aa {
+ list-style:square;
+ list-style-type:circle;
+ list-style-position:outside;
+ list-style-image:url("bank/ay.png");
+ animation-delay:2000;
+ animation-direction:normal;
+ animation-duration:;
+ animation-fill-mode:;
+ animation-iteration-count:inherit;
+ animation-play-state:running;
+ animation-timing-function:linear;
+ }
+
+//⛔⛔⛔⛔⛔⛔⛔⛔⛔//
+
+.copied {
+    color: red;
+}
+
+.copied:after {
+    content: attr(title);
+}
+
+
+.bank {
+width: 90%;
+font-size:17px;
+height:30px;
+color:brown;
+
+}
+.div-pey {
+width:90%;
+border:2px solid gray;
+border-radius:10px;
+font-size:25px;
+color:lime;
+}
+
+.milli {
+width:360px;
+border-radius:80pt;
+}
+
+/* <---- RECIPT CODE ----> */
+
+.receipt-title{
+  background-color: #00000050;
+  padding: 20px;
+  margin: auto;
+  border-radius: 0 0 20px 20px;
+  color: white;
+}
+.receipt-body{
+  background: white;
+  margin: 30px auto 50px auto;
+  padding: 40px 20px 20px 20px;
+  border-radius: 20px 20px 0 0;
+}
+.receipt-divider{
+  height: 1px;
+  margin: 20px 0;
+  background-image: linear-gradient(to right, #615B5B 50%, transparent 50%), linear-gradient(to right, #615B5B 50%, transparent 50%);
+  background-position: left top, left bottom, left top, right top;
+  background-repeat: repeat-x, repeat-x, repeat-y, repeat-y;
+  background-size: 20px 5px, 20px 5px;
+  position: relative;
+}
+.receipt-divider::before,
+.receipt-divider::after{
+    content: "";
+    background-color: var(--receipt-base-color);
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    border-radius: 100%;
+    margin-top: -15px;
+}
+.receipt-divider::before{
+    right: -35px;
+}
+.receipt-divider::after{
+    left: -35px;
+}
+.receipt-bottom{
+  position: relative;
+  bottom: -35px;
+  border-top: 30px dotted var(--receipt-base-color);
+}
+.receipt-row{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.receipt-row :nth-child(2){
+    border-top: 1px dashed #A8A8A8;
+    width: max-content;
+    align-self: center;
+    flex-grow: 1;
+    margin: 0 10px;
+}
+.receipt-head{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.receipt-head img{l
+  width: 50px;
+  margin-bottom: 15px;
+}
+
+/* <---- RECIPT CODE ----> */
+
+/* <---- HELP  ----> */
+.form3-2 {
+border:4px ridge #256E91;
+border-top:1px solid black;
+border-bottom-left-radius:20px;
+border-bottom-right-radius:20px;
+width:380px;
+padding-top:10px;
+padding-bottom:10px;
+height:auto;
+}
+
+.div-head {
+	font-family:irsblack;
+	font-size:20px;
+	color:white;
+	text-align:justify;
+	width:95%;
+	border:1px solid gold;
+	border-radius:10px;
+	padding:5px;
+	}
+.bank {
+border:1px solid darkblue;
+font-family:irsblack;
+font-size:18px;
+}
+.bank  .th {
+background-color:black;
+color:gold;
+text-align:center;
+}
+.bank  .td {
+background-color:lightyellow;
+text-align:center;
+width:250px;
+color:darkblue;
+font-family:irsbold;
+font-size:17px;
+}
+.bank .tr {
+border:1px solid brown;
+}
+.countdown {
+width:350px;
+border:2px ridge gold;
+background-color:teal;
+padding:5px;
+margin-top:3px;
+border-radius:20px;
+}
+	.countdown > table {
+				text-align:center;
+
+				}
+	.countdown > table > thead {
+						width:100%;
+						}
+	.countdown > table > thead > tr {
+								border:1px solid yellow;
+								color:white;
+								font-family:irsblack;
+								font-size:28px;
+								width:100%;
+								background-color:orange;
+								color:black;
+								}
+	.countdown > table > tbody > tr > th {
+									font-family:irsblack;
+									font-size:22px;
+									background-color:black;
+									color:yellow;
+			
+									}
+	.countdown > table > tbody > tr > td {
+									font-family:led07;
+									font-size:50px;
+									background-color:black;
+					
+									width:40px;
+									}
+	.countdown > table > tbody {         <th colspan="3" >اطلاعات حساب</th>
+						}
+	.countdown > table > tbody > tr {
+								border:1px solid red;
+								}
+
+.countdown > table > tfoot > tr {
+							border:1px solid yellow;
+							color:white;
+							font-family:irsblack;
+							font-size:28px;
+							width:100%;
+							background-color:orange;
+							color:black;
+							animation:;
+							}
