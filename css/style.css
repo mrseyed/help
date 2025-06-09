@@ -637,3 +637,23 @@ border-radius:20px;
 							color:black;
 							animation:;
 							}
+
+.percent {
+width:95%;
+border:1px solid black;
+border-radius:20pt;
+background-color:yellow;
+font-family:irsblack;
+font-size:22px;
+}
+	.percent > table > tbody > tr > th {
+	background-color:red;
+	width:32px;
+	color:white;
+	text-align:center;
+	}
+	.percent > table > tbody > tr > td {
+	width:32px;
+	color:black;
+	text-align:center;
+	}
